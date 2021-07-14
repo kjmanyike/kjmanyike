@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kjmanyike
+- 👋 Hi, I’m Khongelani Manyike
 - 👀 I’m interested in pursuing a career in Software Development
 - 🌱 I’m currently learning JavaScript and using C# at an organization called Cybersec Clinique
 - 💞️ I’m looking to collaborate on projects that will bring a solution to the community.
