@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Khongelani Manyike
-- 👀 I’m interested in pursuing a career in Software Development
-- 🌱 I’m currently learning JavaScript and using C# at an organization called Cybersec Clinique
+- 👀 I’m pursuing a career in Software Development
+- 🌱 I’m currently doing JavaScript and using C# at an organization called Cybersec Clinique
 - 💞️ I’m looking to collaborate on projects that will bring a solution to the community.
-- 📫 How to reach me: kjmanyike@cybersec-clinique.co.za
+- 📫 How to reach me: manyikekj@gmail.com
 
 <!---
 kjmanyike/kjmanyike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
